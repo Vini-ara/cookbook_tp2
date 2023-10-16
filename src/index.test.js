@@ -11,8 +11,8 @@ import {
 
 beforeEach(() => {
   global.dados = [];
-  global.wordsMock = [];
-  global.word_freqsMock = [];
+  global.words = [];
+  global.word_freqs = [];
 });
 
 describe("testes unitarios", () => {
