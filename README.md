@@ -8,6 +8,8 @@ Luiz Augusto Araújo da Silva - 211036105
 
 Vinícius da Silva Araujo - 221001981
 
+Link da vídeo aula: https://youtu.be/C_3dTMOwOBE
+
 Link do repo: https://github.com/Vini-ara/cookbook_tp2
 
 Para rodar o projeto é necessário ter instalado o [Node.js](https://nodejs.org/en) de preferência em uma versão mais atual.
